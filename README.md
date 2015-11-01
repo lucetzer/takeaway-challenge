@@ -1,5 +1,5 @@
 [![Build Status](https://travis-ci.org/makersacademy/takeaway-challenge.svg?branch=master)](https://travis-ci.org/makersacademy/takeaway-challenge)
-[![Coverage Status](https://coveralls.io/repos/makersacademy/takeaway-challenge/badge.png)](https://coveralls.io/r/makersacademy/takeaway-challenge)
+[![CoverageStatus](https://coveralls.io/repos/lucetzer/takeaway-challenge/badge.svg?branch=master&service=github)](https://coveralls.io/github/lucetzer/takeaway-challenge?branch=master)
 
 Takeaway Challenge
 ==================
